@@ -63,4 +63,4 @@ Edit "start" and "build" scripts to include "watch:css" and "build:css":
 "build": "npm run build:css && react-scripts build",
 ```
 
-## Pixabay API
+
